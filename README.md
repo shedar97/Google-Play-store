@@ -17,10 +17,9 @@ This project analyzes e-commerce sales to understand trends and improve decision
 ---
 
 ### 🖼️ Screenshot 1: Project Start (Home Screen)
-![Home Screen](images/home.png)
+![Home Screen](shedar97)
 
 This screen shows the beginning of the notebook where the dataset is loaded and libraries are imported.
-
 
 
 
@@ -39,7 +38,7 @@ This screen shows the beginning of the notebook where the dataset is loaded and 
 ---
 
 ### 🧹 Screenshot 2: Data Cleaning
-![Data Cleaning](images/cleaning.png)
+![Data Cleaning](shedar97)
 
 This step includes removing duplicates, handling null values, and standardizing column formats.
 
@@ -59,13 +58,13 @@ This step includes removing duplicates, handling null values, and standardizing 
 ---
 
 ### 📊 Screenshot 3: Sales Analysis
-![Sales Analysis](images/analysis.png)
+![Sales Analysis](https://github.com/shedar97/Google-Play-store/blob/main/data%20entry%20screenshots.png/Screen%20Shot%202025-04-22%20at%2011.04.37%20PM.png?raw=true,https://github.com/shedar97/Google-Play-store/blob/main/data%20entry%20screenshots.png/Screen%20Shot%202025-04-22%20at%2011.03.38%20PM.png?raw=true,https://github.com/shedar97/Google-Play-store/blob/main/data%20entry%20screenshots.png/Screen%20Shot%202025-04-22%20at%2011.01.57%20PM.png?raw=true,https://github.com/shedar97/Google-Play-store/blob/main/data%20entry%20screenshots.png/Screen%20Shot%202025-04-22%20at%2011.02.39%20PM.png?raw=true,https://github.com/shedar97/Google-Play-store/blob/main/data%20entry%20screenshots.png/Screen%20Shot%202025-04-22%20at%2011.05.22%20PM.png?raw=true)
 
 Monthly sales trends and top product categories were analyzed using SQL and visualized with matplotlib.
 
 
 
-
+h
 
 
 
