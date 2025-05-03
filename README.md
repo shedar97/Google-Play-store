@@ -29,6 +29,7 @@ This screen shows the beginning of the notebook where the dataset is loaded and 
 
 
 
+<img width="966" alt="Screen Shot 2025-04-22 Data entry code 2" src="https://github.com/user-attachments/assets/ea0833f6-d0ab-4094-8c28-59970020cc42" />
 
 
 
