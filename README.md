@@ -16,7 +16,7 @@ This project analyzes e-commerce sales to understand trends and improve decision
 
 ---
 
-### 🖼️  Project Start (Home Screen)
+### 🖼️  Project Start 
 
 
 This screen shows the beginning of the notebook where the dataset is loaded and libraries are imported.
@@ -38,7 +38,7 @@ This screen shows the beginning of the notebook where the dataset is loaded and 
 ---
 
 ### 🧹    Data Cleaning
-![Data Cleaning](shedar97)
+
 
 This step includes removing duplicates, handling null values, and standardizing column formats.
 
