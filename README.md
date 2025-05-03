@@ -52,6 +52,7 @@ This step includes removing duplicates, handling null values, and standardizing 
 
 
 
+<img width="1554" alt="Screenshot 2025-05-03 at 2 57 05 PM" src="https://github.com/user-attachments/assets/9a91a47e-9548-48c5-9995-626421e5b0c5" />
 
 
 
@@ -63,7 +64,7 @@ This step includes removing duplicates, handling null values, and standardizing 
 ---
 
 ### 📊  Sales Analysis
-![Sales Analysis](https://github.com/shedar97/Google-Play-store/blob/main/data%20entry%20screenshots.png/Screen%20Shot%202025-04-22%20at%2011.04.37%20PM.png?raw=true,https://github.com/shedar97/Google-Play-store/blob/main/data%20entry%20screenshots.png/Screen%20Shot%202025-04-22%20at%2011.03.38%20PM.png?raw=true,https://github.com/shedar97/Google-Play-store/blob/main/data%20entry%20screenshots.png/Screen%20Shot%202025-04-22%20at%2011.01.57%20PM.png?raw=true,https://github.com/shedar97/Google-Play-store/blob/main/data%20entry%20screenshots.png/Screen%20Shot%202025-04-22%20at%2011.02.39%20PM.png?raw=true,https://github.com/shedar97/Google-Play-store/blob/main/data%20entry%20screenshots.png/Screen%20Shot%202025-04-22%20at%2011.05.22%20PM.png?raw=true)
+
 
 Monthly sales trends and top product categories were analyzed using SQL and visualized with matplotlib.
 
@@ -71,6 +72,7 @@ Monthly sales trends and top product categories were analyzed using SQL and visu
 
 h
 
+<img width="1504" alt="Screenshot 2025-05-03 at 2 58 24 PM" src="https://github.com/user-attachments/assets/01cc3fe7-a5b9-4c1f-b9a8-19176f2dcc7c" />
 
 
 
@@ -89,7 +91,14 @@ h
 ### 📈  Dashboard Output
 ![Dashboard Output](images/dashboard.png)
 
-The final dashboard displays key KPIs such as AOV, revenue trends, and top-performing regions.
+The final dashboard displays key KPIs such as AOV, revenue 
+
+
+
+
+
+
+<img width="1002" alt="Screen Shot 2025-04-22 at 11 02 39 PM" src="https://github.com/user-attachments/assets/5bffaab8-7407-4fdd-9f7b-7b81ae0fc467" />
 
 
 
@@ -102,7 +111,23 @@ The final dashboard displays key KPIs such as AOV, revenue trends, and top-perfo
 
 
 
+trends, and top-performing regions.
 
+
+<img width="980" alt="Screen Shot 2025-04-22 at 11 03 38 PM" src="https://github.com/user-attachments/assets/1f7646cc-cc8a-4891-95db-26cbbe14e5a9" />
+
+
+
+
+
+
+<img width="911" alt="Screen Shot 2025-04-22 at 11 04 37 PM" src="https://github.com/user-attachments/assets/c2423354-7f5d-4d83-8f28-d86a33cae592" />
+
+
+
+
+
+<img width="952" alt="Screen Shot 2025-04-22 at 11 05 22 PM" src="https://github.com/user-attachments/assets/fe00fe0d-fd4b-4668-960c-b12e563d74d9" />
 
 
 
