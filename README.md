@@ -5,8 +5,8 @@ Thinking like You...keeping dispriptions short but clear!
 This project analyzes e-commerce sales to understand trends and improve decision-making.
 
 
-
-
+[
+](https://github.com/shedar97/Google-Play-store/blob/main/data%20entry%20screenshots.png/Screen%20Shot%202025-04-22%20data%20entry%20code%201.png?raw=true)
 
 
 
