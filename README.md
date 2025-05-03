@@ -5,11 +5,15 @@
 This project analyzes e-commerce sales to understand trends and improve decision-making.
 
 
+
+
+
 [
 ](https://github.com/shedar97/Google-Play-store/blob/main/data%20entry%20screenshots.png/Screen%20Shot%202025-04-22%20data%20entry%20code%201.png?raw=true)
 
 
 
+<img width="1056" alt="Screen Shot 2025-04-22 data entry code 1" src="https://github.com/user-attachments/assets/85ea52b6-1450-4583-bdd3-528c0efcce75" />
 
 
 
