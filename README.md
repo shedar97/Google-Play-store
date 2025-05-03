@@ -132,6 +132,7 @@ trends, and top-performing regions.
 
 
 
+<img width="1014" alt="Screen Shot 2025-04-22 at 11 04 15 PM" src="https://github.com/user-attachments/assets/84a1f437-85a0-4760-8e0c-39f614b74423" />
 
 
 
