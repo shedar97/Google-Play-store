@@ -1,4 +1,4 @@
-Thinking like You...keeping dispriptions short but clear! 
+ 
 
 
 ### 📍 Project Overview    
